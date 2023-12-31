@@ -13,8 +13,3 @@ A web application that allows users to create quiz. users can choose the topic, 
 - Tailwind CSS
 - Axios
 - react 
-
-## Getting Started
-- clone the repo  with <code>git cone https://github.com/animogm/quiz-app.git</code>
-- Run npm install
-- Run npm start
